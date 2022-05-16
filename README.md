@@ -1,5 +1,5 @@
 
-# Git-User-Search
+# GitHub-User-Search
 
 Github Active Link: https://prabuddha16.github.io/Git-User-Search
 
